@@ -89,6 +89,7 @@
     "charwise": "^3.0.1",
     "esbuild-plugin-replace": "^1.4.0",
     "idb": "^8.0.2",
+    "jwt-decode": "^4.0.0",
     "multiformats": "^13.3.1",
     "p-limit": "^6.2.0",
     "p-map": "^7.0.3",
@@ -97,6 +98,7 @@
     "randombytes": "^2.1.0",
     "react": "^18.3.1",
     "typedoc": "^0.27.6",
+    "use-fireproof": "^0.19.121",
     "uuidv7": "^1.0.2"
   },
   "bundle-phobia": {
